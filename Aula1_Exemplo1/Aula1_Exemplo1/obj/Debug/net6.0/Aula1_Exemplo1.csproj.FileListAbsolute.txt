@@ -1,0 +1,15 @@
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\bin\Debug\net6.0\Aula1_Exemplo1.exe
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\bin\Debug\net6.0\Aula1_Exemplo1.deps.json
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\bin\Debug\net6.0\Aula1_Exemplo1.runtimeconfig.json
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\bin\Debug\net6.0\Aula1_Exemplo1.dll
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\bin\Debug\net6.0\Aula1_Exemplo1.pdb
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\obj\Debug\net6.0\Aula1_Exemplo1.csproj.AssemblyReference.cache
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\obj\Debug\net6.0\Aula1_Exemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\obj\Debug\net6.0\Aula1_Exemplo1.AssemblyInfoInputs.cache
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\obj\Debug\net6.0\Aula1_Exemplo1.AssemblyInfo.cs
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\obj\Debug\net6.0\Aula1_Exemplo1.csproj.CoreCompileInputs.cache
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\obj\Debug\net6.0\Aula1_Exemplo1.dll
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\obj\Debug\net6.0\refint\Aula1_Exemplo1.dll
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\obj\Debug\net6.0\Aula1_Exemplo1.pdb
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\obj\Debug\net6.0\Aula1_Exemplo1.genruntimeconfig.cache
+C:\imersao\Aula1_Exemplo1\Aula1_Exemplo1\obj\Debug\net6.0\ref\Aula1_Exemplo1.dll

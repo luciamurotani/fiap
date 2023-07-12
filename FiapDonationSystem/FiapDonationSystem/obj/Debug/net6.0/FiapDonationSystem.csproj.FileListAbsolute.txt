@@ -1,0 +1,15 @@
+C:\imersao\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.csproj.AssemblyReference.cache
+C:\imersao\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.AssemblyInfoInputs.cache
+C:\imersao\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.AssemblyInfo.cs
+C:\imersao\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.csproj.CoreCompileInputs.cache
+C:\imersao\FiapDonationSystem\FiapDonationSystem\bin\Debug\net6.0\FiapDonationSystem.exe
+C:\imersao\FiapDonationSystem\FiapDonationSystem\bin\Debug\net6.0\FiapDonationSystem.deps.json
+C:\imersao\FiapDonationSystem\FiapDonationSystem\bin\Debug\net6.0\FiapDonationSystem.runtimeconfig.json
+C:\imersao\FiapDonationSystem\FiapDonationSystem\bin\Debug\net6.0\FiapDonationSystem.dll
+C:\imersao\FiapDonationSystem\FiapDonationSystem\bin\Debug\net6.0\FiapDonationSystem.pdb
+C:\imersao\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.dll
+C:\imersao\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\refint\FiapDonationSystem.dll
+C:\imersao\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.pdb
+C:\imersao\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\FiapDonationSystem.genruntimeconfig.cache
+C:\imersao\FiapDonationSystem\FiapDonationSystem\obj\Debug\net6.0\ref\FiapDonationSystem.dll

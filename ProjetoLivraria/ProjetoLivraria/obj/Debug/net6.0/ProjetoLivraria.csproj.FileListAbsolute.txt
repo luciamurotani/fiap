@@ -1,0 +1,15 @@
+C:\imersao\ProjetoLivraria\ProjetoLivraria\bin\Debug\net6.0\ProjetoLivraria.exe
+C:\imersao\ProjetoLivraria\ProjetoLivraria\bin\Debug\net6.0\ProjetoLivraria.dll
+C:\imersao\ProjetoLivraria\ProjetoLivraria\obj\Debug\net6.0\ProjetoLivraria.csproj.AssemblyReference.cache
+C:\imersao\ProjetoLivraria\ProjetoLivraria\obj\Debug\net6.0\ProjetoLivraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao\ProjetoLivraria\ProjetoLivraria\obj\Debug\net6.0\ProjetoLivraria.AssemblyInfoInputs.cache
+C:\imersao\ProjetoLivraria\ProjetoLivraria\obj\Debug\net6.0\ProjetoLivraria.AssemblyInfo.cs
+C:\imersao\ProjetoLivraria\ProjetoLivraria\obj\Debug\net6.0\ProjetoLivraria.csproj.CoreCompileInputs.cache
+C:\imersao\ProjetoLivraria\ProjetoLivraria\obj\Debug\net6.0\ProjetoLivraria.dll
+C:\imersao\ProjetoLivraria\ProjetoLivraria\obj\Debug\net6.0\refint\ProjetoLivraria.dll
+C:\imersao\ProjetoLivraria\ProjetoLivraria\obj\Debug\net6.0\ProjetoLivraria.pdb
+C:\imersao\ProjetoLivraria\ProjetoLivraria\bin\Debug\net6.0\ProjetoLivraria.deps.json
+C:\imersao\ProjetoLivraria\ProjetoLivraria\bin\Debug\net6.0\ProjetoLivraria.runtimeconfig.json
+C:\imersao\ProjetoLivraria\ProjetoLivraria\bin\Debug\net6.0\ProjetoLivraria.pdb
+C:\imersao\ProjetoLivraria\ProjetoLivraria\obj\Debug\net6.0\ProjetoLivraria.genruntimeconfig.cache
+C:\imersao\ProjetoLivraria\ProjetoLivraria\obj\Debug\net6.0\ref\ProjetoLivraria.dll

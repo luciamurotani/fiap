@@ -1,0 +1,15 @@
+C:\imersao\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.exe
+C:\imersao\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.deps.json
+C:\imersao\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.runtimeconfig.json
+C:\imersao\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.dll
+C:\imersao\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\ProjetoBanco.pdb
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.csproj.AssemblyReference.cache
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.AssemblyInfoInputs.cache
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.AssemblyInfo.cs
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.dll
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\refint\ProjetoBanco.dll
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.pdb
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.genruntimeconfig.cache
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ref\ProjetoBanco.dll

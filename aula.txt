@@ -1,0 +1,120 @@
+Aula 1 - C# Foundations
+---------------------------
+
+	Conceito O.O.
+	
+	Abstração objeto
+	
+	Objeto
+		Identidade
+
+			Estado
+				
+			Comportamento
+
+	------------------------------------------
+	
+	Conceito de UML - Diagrama de Classe	
+
+	Classe
+	
+		Atributo
+		
+			
+	
+		Método
+	
+	-------------------------------------------
+	
+	Instância de um objeto - new
+
+	Invocação dos métodos
+	
+	--------------------------------------------
+	
+	Aplicação no visual studio 
+	
+	---------------------------------------------
+
+
+
+Aula 2 - C# Foundations
+---------------------------
+
+	Conceito Encapsulamento
+
+	modificador acesso public
+	modificador acesso private
+
+	método get 
+	método set
+
+	
+Método construtor
+
+	Livro livro = new Livro(); sem parâmetro - construtor vazio
+	Livro livro = new Livro("nomeLivro"); com um ou mais parâmetros
+
+
+	Conceito de atributo ???? 
+
+	Conceito de variável ???? 
+
+	Conceito de parâmetro ???? 
+
+Metódo
+
+	public String exibeDados(){ //assinatura do método
+	
+		// implementação
+		return "";
+	}
+	
+	public int exibeDados(int idade){
+	
+		// implementação
+		return 0;
+	}
+	
+	public void exibeDados(int idade){
+		// implementação
+	}
+	
+	
+
+Aula 3 - C# Foundations
+---------------------------
+
+	Conceito de Herança (aplicação no C# =>  nome_super_classe : nome_sub_classe
+
+	Conceito de Polimorfismo
+
+	Superclasse
+	Subclasse
+	Construtor com Herança
+
+	Generalização 
+	Especificação
+
+	Sobrecarga de métodos (overload) - mesmo nome com assinaturas diferentes
+	Sobrescrita de métodos (Overriding) - assinaturas iguais (regra de virtual e overriding)
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	

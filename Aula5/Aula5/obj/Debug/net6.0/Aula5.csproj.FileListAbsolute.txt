@@ -1,0 +1,15 @@
+C:\imersao\Aula5\Aula5\bin\Debug\net6.0\Aula5.exe
+C:\imersao\Aula5\Aula5\bin\Debug\net6.0\Aula5.deps.json
+C:\imersao\Aula5\Aula5\bin\Debug\net6.0\Aula5.runtimeconfig.json
+C:\imersao\Aula5\Aula5\bin\Debug\net6.0\Aula5.dll
+C:\imersao\Aula5\Aula5\bin\Debug\net6.0\Aula5.pdb
+C:\imersao\Aula5\Aula5\obj\Debug\net6.0\Aula5.csproj.AssemblyReference.cache
+C:\imersao\Aula5\Aula5\obj\Debug\net6.0\Aula5.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao\Aula5\Aula5\obj\Debug\net6.0\Aula5.AssemblyInfoInputs.cache
+C:\imersao\Aula5\Aula5\obj\Debug\net6.0\Aula5.AssemblyInfo.cs
+C:\imersao\Aula5\Aula5\obj\Debug\net6.0\Aula5.csproj.CoreCompileInputs.cache
+C:\imersao\Aula5\Aula5\obj\Debug\net6.0\Aula5.dll
+C:\imersao\Aula5\Aula5\obj\Debug\net6.0\refint\Aula5.dll
+C:\imersao\Aula5\Aula5\obj\Debug\net6.0\Aula5.pdb
+C:\imersao\Aula5\Aula5\obj\Debug\net6.0\Aula5.genruntimeconfig.cache
+C:\imersao\Aula5\Aula5\obj\Debug\net6.0\ref\Aula5.dll
