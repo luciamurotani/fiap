@@ -1,0 +1,15 @@
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\bin\Debug\net6.0\BancoAtividadeInterface.exe
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\bin\Debug\net6.0\BancoAtividadeInterface.deps.json
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\bin\Debug\net6.0\BancoAtividadeInterface.runtimeconfig.json
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\bin\Debug\net6.0\BancoAtividadeInterface.dll
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\bin\Debug\net6.0\BancoAtividadeInterface.pdb
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\obj\Debug\net6.0\BancoAtividadeInterface.csproj.AssemblyReference.cache
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\obj\Debug\net6.0\BancoAtividadeInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\obj\Debug\net6.0\BancoAtividadeInterface.AssemblyInfoInputs.cache
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\obj\Debug\net6.0\BancoAtividadeInterface.AssemblyInfo.cs
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\obj\Debug\net6.0\BancoAtividadeInterface.csproj.CoreCompileInputs.cache
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\obj\Debug\net6.0\BancoAtividadeInterface.dll
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\obj\Debug\net6.0\refint\BancoAtividadeInterface.dll
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\obj\Debug\net6.0\BancoAtividadeInterface.pdb
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\obj\Debug\net6.0\BancoAtividadeInterface.genruntimeconfig.cache
+C:\imersao\BancoAtividadeInterface\BancoAtividadeInterface\obj\Debug\net6.0\ref\BancoAtividadeInterface.dll

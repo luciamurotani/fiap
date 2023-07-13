@@ -15,6 +15,8 @@
 
             Veiculo veiculo = new Veiculo();
 
+            Residencia seguroResidencia = new Residencia();
+
             GerenciadorImpostoRenda gir = new GerenciadorImpostoRenda();
             gir.Total = 1000;
             gir.adicionar(vida);

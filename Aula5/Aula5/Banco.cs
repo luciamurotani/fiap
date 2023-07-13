@@ -15,8 +15,7 @@ namespace Aula5
         public override string ToString()
         {
             return $"Banco  {this.Nome}" +
-
-                   $" Telefone  {this.Telefone}";
+                $" Telefone  {this.Telefone}";
 
         }
 

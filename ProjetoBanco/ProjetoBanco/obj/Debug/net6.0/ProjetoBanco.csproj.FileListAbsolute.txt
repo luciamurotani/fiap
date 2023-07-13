@@ -13,3 +13,5 @@ C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\refint\ProjetoBanco.dll
 C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.pdb
 C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.genruntimeconfig.cache
 C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ref\ProjetoBanco.dll
+C:\imersao\ProjetoBanco\ProjetoBanco\bin\Debug\net6.0\nunit.framework.dll
+C:\imersao\ProjetoBanco\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.csproj.CopyComplete

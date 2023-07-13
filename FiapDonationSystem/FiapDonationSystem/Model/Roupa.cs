@@ -1,5 +1,6 @@
 ﻿
 using FiapDonationSystem.Enum;
+using FiapDonationSystem.Helper;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,7 +22,6 @@ namespace FiapDonationSystem.Model
             StringBuilder sb = new StringBuilder();
             sb.Append(base.exibirDados());
             sb.Append($"\nCategoria: {Categoria} \nTamanho: {Tamanho.GetDescription()}\nComprimento Roupa: {TipoComprimento.GetDescription()}");
-
 
             return sb.ToString();
            

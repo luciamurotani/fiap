@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4/tyT6VU35i2y7N3UIwz0FapxkqxJ6rIbRIOKoOzIDDo6LwR5WLUDbJWnxnm3uNNOE+Q6jhKo0niIGFIgsN0Pw==",
+  "dgSpecHash": "ofZb0/unvoP6dlB76Wg0Kyp6891XWEePbx79ez29J9z42MfWojJtZeW/NA4m0TItprXsMPP1Al2r2zrt4sZ0Hg==",
   "success": true,
   "projectFilePath": "C:\\imersao\\ProjetoBanco\\ProjetoBanco\\ProjetoBanco.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\55199\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\55199\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\55199\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }
