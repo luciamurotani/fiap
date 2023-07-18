@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace FiapDonationSystem.Interface
 {
-    public interface IAutenticacao
+    public interface IAutenticavel
     {
-
+        public bool Autenticar(string username, string password);
     }
 }

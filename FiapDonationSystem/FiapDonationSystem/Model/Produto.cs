@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FiapDonationSystem.Model
 {
-    public class Produto
+    public abstract class Produto
     {
         public string nome { get; set; }
         public string descricao { get; set; }

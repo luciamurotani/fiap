@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int? valorEmprestimo = 1000;
+            int? valorEmprestimo = null;
             int parcelas = 0;
             try
             {

@@ -25,6 +25,6 @@ namespace BancoAtividadeInterface.Models
             return this.Saldo;
         }
 
-        
+       
     }
 }
